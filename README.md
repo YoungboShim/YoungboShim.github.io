@@ -3,4 +3,3 @@ KAIST에서 박사과정을 밟고 있는 학생. 사람을 fun하게 만드는 
 ## Research
 ### FS-Pad: Video Game Interactions Using Force Feedback Gamepad
 YA Shim, K Park, S Lee, J Son, T Woo, G Lee (UIST 2020)
-![Small image](/assets/img/FSPad_windgodfist.gif)
