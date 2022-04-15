@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
-title: YoungboShim's homepage
-description: Simple homepage used for self-introduction, project advertisements, and CV link.
+logo: /assets/img/profile.jpg
+description: HCI researcher, Gamer, Climber.
+show_downloads: ["true"]
